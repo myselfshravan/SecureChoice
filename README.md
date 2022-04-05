@@ -13,7 +13,9 @@ i am also exploring open-source.
 | [Secure Choice App](https://about.me/securechoiceapp)     | The app is still under testing.
 
 
-<a href="https://securechoice.github.io/securechoice/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://securechoice.github.io/securechoice/" target="_blank">**Visit Now** 🚀</a><br>
+<a href="https://github.com/securechoice/securechoice" target="_blank">Check Github</a>
+ 
 
 ### Important Links
 
